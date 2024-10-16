@@ -48,7 +48,7 @@ async def goblin_deez_nuts(food: str = "Ramen"):
         "Hint": "The unicorn is safe now, but the goblin jumped in a weird portal, could it go to a universe parallel to ours?"
     }
 
-@app.get("/parallel-universes")
+@app.get("/parallel-universe")
 async def steven_parallel_universe():
     return {
         "universes": ["universe-1", "universe-2", "universe-3"],
@@ -86,7 +86,7 @@ async def slip_on_banana():
     }
 
 @app.get("/flag")
-async def flag_fr_fr():
+async def flag_fr_fr_trust():
     await asyncio.sleep(300)
     return {
         "Flag": "TlUgVUgh", # NU UH!
