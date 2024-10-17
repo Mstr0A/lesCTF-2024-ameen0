@@ -1,0 +1,12 @@
+#######################################
+# Question: A file I guess            #
+# Author: Ameen0                      #
+# Category: misc / stegno             # 
+#                                     #
+# You should not be in here           #
+# Flag: lesCTF{new_file_format_bruwu} #
+# Art by me (Ameen/Mstr0A)            #
+#######################################
+
+Description:
+So I left my laptop with my friend while I went to the bathroom, when I came back my friend was gone and I had these weird files on my desktop, I'm scared, help
